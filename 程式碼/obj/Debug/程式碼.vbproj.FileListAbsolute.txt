@@ -1,0 +1,66 @@
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\bin\Debug\程式碼.exe.config
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\bin\Debug\程式碼.exe
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\bin\Debug\程式碼.pdb
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\bin\Debug\程式碼.xml
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\obj\Debug\程式碼.vbprojAssemblyReference.cache
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\obj\Debug\程式碼.Form1.resources
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\obj\Debug\程式碼.Resources.resources
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\obj\Debug\程式碼.vbproj.GenerateResource.cache
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\obj\Debug\程式碼.vbproj.CoreCompileInputs.cache
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\obj\Debug\程式碼.exe
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\obj\Debug\程式碼.xml
+D:\文件\大二下的資料\Visual Basic\程式碼\程式碼\obj\Debug\程式碼.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\bin\Debug\程式碼.exe.config
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\bin\Debug\程式碼.exe
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\bin\Debug\程式碼.pdb
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\bin\Debug\程式碼.xml
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\obj\Debug\程式碼.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\obj\Debug\程式碼.Form1.resources
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\obj\Debug\程式碼.Resources.resources
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\obj\Debug\程式碼.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\obj\Debug\程式碼.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\obj\Debug\程式碼.exe
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\obj\Debug\程式碼.xml
+C:\Users\user\Desktop\新增資料夾 (2)\程式碼\obj\Debug\程式碼.pdb
+C:\Users\User\Desktop\vb專題\程式碼\bin\Debug\程式碼.exe.config
+C:\Users\User\Desktop\vb專題\程式碼\bin\Debug\程式碼.exe
+C:\Users\User\Desktop\vb專題\程式碼\bin\Debug\程式碼.pdb
+C:\Users\User\Desktop\vb專題\程式碼\bin\Debug\程式碼.xml
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.Form1.resources
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.Resources.resources
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.exe
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.xml
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.pdb
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.Form2.resources
+C:\Users\User\Desktop\vb專題\程式碼\obj\Debug\程式碼.Form3.resources
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\bin\Debug\程式碼.exe.config
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\bin\Debug\程式碼.exe
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\bin\Debug\程式碼.pdb
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\bin\Debug\程式碼.xml
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.Form1.resources
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.Form2.resources
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.Form3.resources
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.Resources.resources
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.exe
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.xml
+C:\Users\User\Desktop\大學\大二下\視窗程設\新增資料夾\vb專題\程式碼\obj\Debug\程式碼.pdb
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\bin\Debug\程式碼.exe.config
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\bin\Debug\程式碼.exe
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\bin\Debug\程式碼.pdb
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\bin\Debug\程式碼.xml
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.vbprojAssemblyReference.cache
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.Form1.resources
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.Form2.resources
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.Form3.resources
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.Resources.resources
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.vbproj.GenerateResource.cache
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.vbproj.CoreCompileInputs.cache
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.exe
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.xml
+D:\文件\大二下的資料\Visual Basic\vb專題\程式碼\obj\Debug\程式碼.pdb
